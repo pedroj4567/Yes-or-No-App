@@ -1,16 +1,13 @@
-# yes_or_no_app
+# Yes o No App
 
-A new Flutter project.
+Este es un proyecto practico creado con flutter, tiene como finalidad aprender a como usar los widgets cotidianos al momento de crear una sencilla o avanzada app.
+Tambien se le anexa una funcionalibidad extra para comunicarse con la api de yesorno para tener una especie de interaccion tipo chat.
 
-## Getting Started
+# Temas aplicados
 
-This project is a starting point for a Flutter application.
+ - Conexion a una api.
+ - Uso de widget textFormField.
+ - Uso de widgets con estado.
+ - Uso de providers.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ![Screenshot 2025-03-17 at 7 49 36 PM](https://github.com/user-attachments/assets/5e339e28-a3f2-45ed-8f73-a8c460aa119c)
